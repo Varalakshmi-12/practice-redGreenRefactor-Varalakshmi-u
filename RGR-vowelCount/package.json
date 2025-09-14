@@ -1,0 +1,15 @@
+{
+  "name": "vowel-count",
+  "version": "1.0.0",
+  "main": "vowelcount.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
